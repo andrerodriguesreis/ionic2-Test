@@ -3,6 +3,7 @@
 npm install -g ionic@beta
 
 git clone
+
 npm install 
 
 ionic serve
