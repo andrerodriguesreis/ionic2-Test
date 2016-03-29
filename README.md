@@ -13,8 +13,10 @@ npm install -g cordova
 
 IOS:
 ionic platform add ios
+
 ionic emulate ios
 
 Android:
 ionic platform add android
+
 ionic run android
